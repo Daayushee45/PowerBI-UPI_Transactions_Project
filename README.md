@@ -32,7 +32,7 @@ To analyze UPI transaction data and track:
 ---
 
 ## 📂 Dataset Used
-🔗 [UPI Transactions Dataset](data/UPI_Transaction.xlsx)
+🔗 [UPI Transactions Dataset](data/UPI_Transactions.xlsx)
 
 ---
 

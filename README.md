@@ -57,7 +57,7 @@ To analyze UPI transaction data and track:
 
 ## 🔗 Dashboard File
 Download the full Power BI project:  
-📁 [UPI_Transactions_Project.pbix](dashboard/UPI_Transactions_Project.pbix)
+📁 [UPI_Transactions_Project.pbix](Dashboard/UPI_Transactions_Project.pbix)
 
 ---
 

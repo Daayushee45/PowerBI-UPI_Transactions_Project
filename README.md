@@ -36,15 +36,6 @@ To analyze UPI transaction data and track:
 
 ---
 
-## ❓ Key Questions (KPIs)
-- How do UPI transaction amounts vary month-wise in 2024?  
-- What trends are observed in remaining balances across months?  
-- Which cities show higher transaction activity and balance retention?  
-- How do payment methods and transaction types affect volumes?  
-- How does user behavior vary by device type, gender, and age group?  
-
----
-
 ## ⭐ Features
 - Monthly transaction analysis using line and column charts  
 - Monthly balance trends visualization  
